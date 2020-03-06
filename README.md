@@ -14,3 +14,6 @@ If you want to build your own dataset without any dependency on wsj0 dataset.You
 
 ## Implementations
 1.[Spoken Language Identification](https://github.com/Satishpas2/Language-Identification-from-Speech)
+## Papers
+### Speaker Diarization papers
+1.[End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247)
